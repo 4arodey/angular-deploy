@@ -1,0 +1,2 @@
+# angular-deploy
+angular application

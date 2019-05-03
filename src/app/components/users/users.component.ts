@@ -14,7 +14,7 @@ export class UsersComponent {
   private locations = [];
   private transactions = [];
 
-  private productsObservable: Observable<any[]> ;
+  private productsObservable: Observable<any> ;
 
   constructor(private dataService: DataService) {
 
